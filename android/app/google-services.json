@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "641971881001",
+    "firebase_url": "https://chat-aurasistemas.firebaseio.com",
+    "project_id": "chat-aurasistemas",
+    "storage_bucket": "chat-aurasistemas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641971881001:android:024d0a95f53d8825bf0838",
+        "android_client_info": {
+          "package_name": "br.com.aurasistemas.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641971881001-nu3uv2s6bo1tac38hpndfpe264e8stj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.aurasistemas.chat",
+            "certificate_hash": "50f2d0c4b4fa0ffed686d9f6d67cdf5abcbc8b74"
+          }
+        },
+        {
+          "client_id": "641971881001-vmrhuq9elpr91aia76udk3n803frcdfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEfdkKLmaSDTy9jYJPKqMiGTqTfIUkno8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641971881001-vmrhuq9elpr91aia76udk3n803frcdfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
